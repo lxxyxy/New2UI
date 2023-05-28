@@ -6,6 +6,7 @@ import javax.swing.*;
 import java.awt.*;
 
 public class winFrame extends JFrame {
+    //
     private int WIDTH;
     private int HEIGTH;
     public winFrame(int width, int height, PlayerColor playerColor){
